@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  padding: 20px;
+}
+
+.parking-form {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.right-section {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-evenly; */
+  gap: 50px;
+  width: 100%;
+}
+
+.right-top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+.table-top {
+  display: flex;
+  justify-content: space-between;
+}
