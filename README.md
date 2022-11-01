@@ -15,6 +15,6 @@
 - Run `npm install` to install all the dependencies
 - Run `npm run dev` to start the project
 
-![enter image description here](https://i.ibb.co/dfDW3Yf/Screenshot-2022-11-01-at-7-51-55-PM.png)
+![enter image description here](https://i.ibb.co/1TG1Dfx/Screenshot-2022-11-01-at-7-51-55-PM.png)
 
 ![enter image description here](https://i.ibb.co/N1ctFg6/Screenshot-2022-11-01-at-9-46-55-PM.png)
